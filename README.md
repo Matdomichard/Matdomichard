@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mathieu</h1>
-<h3 align="center">A passionate Mobile app developper from France</h3>
+<h3 align="center">A passionate Fullstack developper from France</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matdomichard" alt="matdomichard" /></a> </p>
 
 - 🔭 I’m currently working on **Emerga App**
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **Pinia**
 
-- 👯 I’m looking to collaborate on **React Native apps**
-
-- 🤝 I’m looking for help with **jest**
+- 👯 I’m looking to collaborate on **React Native apps or VueJS**
 
 - 💬 Ask me about **React Native**
 
