@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matdomichard" alt="matdomichard" /></a> </p>
 
-- 🔭 I’m currently working on **Emerga App**
+- 🔭 I’m currently working on **Codeur Nomade**
 
 - 🌱 I’m currently learning **Pinia**
 
-- 👯 I’m looking to collaborate on **React Native apps or VueJS**
+- 👯 I’m looking to collaborate on **Java / Angular projects**
 
-- 💬 Ask me about **React Native**
+- 💬 Ask me about **ThreeJS**
 
 - 📫 How to reach me **mathieu.domichard@gmail.com**
 
