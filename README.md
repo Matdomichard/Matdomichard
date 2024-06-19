@@ -5,15 +5,13 @@
 
 - 🔭 I’m currently working on **Codeur Nomade**
 
-- 🌱 I’m currently learning **Pinia**
-
 - 👯 I’m looking to collaborate on **Java / Angular projects**
 
 - 💬 Ask me about **ThreeJS**
 
 - 📫 How to reach me **mathieu.domichard@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I can paint**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
