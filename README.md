@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matdomichard" alt="matdomichard" /></a> </p>
 
-- 🔭 I’m currently working on **Codeur Nomade**
+- 🔭 I’m currently working on **my Portfolio**
 
 - 👯 I’m looking to collaborate on **Java / Angular projects**
 
@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **mathieu.domichard@gmail.com**
 
-- ⚡ Fun fact **I think I can paint**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
